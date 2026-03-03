@@ -1,0 +1,23 @@
+THINGS TO AVOID!!!!######
+##Backend##
+Don’t use absolute file paths (C:/Users/...)
+
+Don’t forget methods=["POST"] on form routes
+
+Don’t return plain strings when you should use render_template
+
+Don’t store sensitive data in CSV
+
+##HTML##
+Don’t use <br><br><br> for spacing — use CSS margin
+
+Don’t inline CSS everywhere
+
+Don’t forget name="" attributes in forms
+
+##CSS##
+Don’t use fixed widths like width: 500px on everything
+
+Don’t style IDs (#id) when classes (.class) are reusable
+
+Don’t mix too many fonts or colours
