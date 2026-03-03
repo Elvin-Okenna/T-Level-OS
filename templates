@@ -1,0 +1,26 @@
+#HTML BASIC PAGE STRUCTURE#########
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+</body>
+</html>
+
+  
+
+  #SEMANTIC HTML#########
+  BEST FOR MARKS#
+
+  <header></header>
+<nav></nav>
+<main></main>
+<section></section>
+<footer></footer>
+
+
