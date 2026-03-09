@@ -22,22 +22,73 @@ Cover:
 - Note relevant lawaws
 
 ​​Business Context	2 
+Explain the background of the project, why it exists, and the real‑world problem it solves.
+Do: Summarise the situation, industry, and purpose in 3–4 sentences
+
 ​Client Brief Review	2  
+Show you understand what the client asked for and what success looks like.
+Do: Highlight key requirements, goals, and expectations from the brief.
+
 ​Stakeholders	2 
+Identify everyone affected by or involved in the system.
+Do: List primary (users) and secondary (admins, managers) stakeholders with their interests.
+
 ​Constraints	3 
+List the limitations that affect the project.
+Do: Mention time, budget, technology, skills, legal, and resource constraints.
+
 ​Empathy Mapping	3 
+Show understanding of the user’s feelings, needs, and behaviours.
+Do: Summarise what users think, feel, say, do to guide design decisions.
+
 ​SWOT Analysis	4 
+Analyse strengths, weaknesses, opportunities, and threats of the solution.
+Do: Provide 2–3 bullet points per section.
+
 ​User Stories & Acceptance	5 
+Describe features from the user’s perspective and how you know they work.
+Do: Use the format: As a [user], I want [feature], so that [benefit] + clear acceptance rules.
+
 ​Functional & Non-Functional Requirements	6-7 
+Functional = what the system must do.
+Non‑functional = how well it must perform.
+Do: List 8–12 requirements split into both categories.
+
 ​Decomposition of Requirements	8 
+Break big requirements into smaller, manageable tasks.
+Do: Turn each requirement into sub‑tasks or components.
+
 ​KPI’s & User Acceptance	9 
+Define how success will be measured and how users confirm the system works.
+Do: Include measurable KPIs (speed, accuracy, usability) + acceptance tests.
+
 ​Proposed Solution	10 
+Give a high‑level overview of the system you plan to build.
+Do: Summarise the architecture, tools, and main features.
+
 ​Description of the Proposed Solution	10 
+Explain how the system works in more detail.
+Do: Describe the workflow, pages, backend logic, and user interactions.
+
 ​Justification	7 
+Explain why your chosen solution is the best option.
+Do: Compare alternatives and justify your tech choices (e.g., Flask, HTML/CSS).
+
 ​Meet the Client and User Needs	7 
+Show how your solution satisfies the brief and user expectations.
+Do: Link features directly to client requirements and user stories.
+
 ​Risks, Mitigation & Wider Issues	8 
+Identify risks and how you will reduce them.
+Do: Include technical, security, ethical, and project risks with mitigation steps.
+
 ​Regulatory guidelines and legal requirements	9 
+Show awareness of laws and standards relevant to your system.
+Do: Mention GDPR, accessibility, data protection, and security requirements.
+
 ​Appendix	10​ 
+Store supporting evidence and extra materials.
+Do: Include diagrams, code snippets, test logs, assets lists, and research.
 
 
 ### **Business Context**
