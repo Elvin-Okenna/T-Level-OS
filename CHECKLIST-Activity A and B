@@ -48,6 +48,25 @@ Do: Provide 2–3 bullet points per section.
 ​User Stories & Acceptance	5 
 Describe features from the user’s perspective and how you know they work.
 Do: Use the format: As a [user], I want [feature], so that [benefit] + clear acceptance rules.
+Acceptance: 
+
+Management: 
+
+Filtering and Searches: Users should be able to filter the type of service or product they are looking for to make the process of finding I easier or the use of the search bar for specific things. 
+
+Display and Accessibility: 
+
+Screen Compatibility: The home page displays correctly and proportional to all devices, screen sizes; ensure the layout is maintained on all support devices. 
+
+Readability: Ensure that text and images are appropriate and considerate, meeting the accessibility standards if WCAG. 
+
+Interactivity and Features:  
+
+Navigation: Users can navigate through different products and services in an efficient manner depending on the device they are using (e.g. swiping for mobile, scrolling for computers etc.  
+
+Search and Filtering: Users can search for services and products and filter what they are attempting to search for based on category, date posted and post information  
+
+Notifications: Users can be notified on products they might be interested in depending on their preferences. 
 
 ​Functional & Non-Functional Requirements	6-7 
 Functional = what the system must do.
