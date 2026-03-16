@@ -213,7 +213,25 @@ Discuss why this stakeholder is important and how will they influence and affect
 - [ ] Navigation Flow / Sitemap
 - [ ] Front-End Requirements
 - [ ] Back-End Requirements
+1. Fresh Orange (Primary Accent)
+Hex: #FF8A00  
+Use for: Buttons, highlights, call‑to‑action (Order Now)
 
+2. Leaf Green (Secondary Accent)
+Hex: #2ECC71  
+Use for: Headings, icons, success messages, eco‑friendly vibes
+
+3. Deep Forest Green (Contrast / Depth)
+Hex: #145A32  
+Use for: Navbars, footers, bold text, backgrounds behind white text
+
+4. Soft Cream (Background Neutral)
+Hex: #FFF7E6  
+Use for: Page backgrounds, product cards, sections
+
+5. Charcoal Grey (Text Neutral)
+Hex: #333333  
+Use for: Body text, subtle borders, icons
 ---
 
 # 🔐 Data Protection
